@@ -1,2 +1,2 @@
 # Programacao-estruturada
-Marcio
+Programas na linguagem C
