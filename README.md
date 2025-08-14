@@ -1,2 +1,2 @@
 # Programacao-estruturada
-Programas na linguagem C
+Pastas de estudos e resolução de atividades em linguagem C 
