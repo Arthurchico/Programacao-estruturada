@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "numerosprimos.C": "cpp"
+        "numerosprimos.C": "cpp",
+        "while.C": "cpp"
     }
 }

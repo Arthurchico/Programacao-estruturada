@@ -6,6 +6,5 @@ int main (){
 printf("Digite um numero:");
 scanf ("%d",&n );
 
-}
-
 return 0;
+}
