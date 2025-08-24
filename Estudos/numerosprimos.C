@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-aaaa
 int main (){
 
-printf("Digite um numero:")
-scanf ("%lf", )
+    int n;
+printf("Digite um numero:");
+scanf ("%d",&n );
 
 }
 
