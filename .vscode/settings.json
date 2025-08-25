@@ -3,6 +3,7 @@
         "numerosprimos.C": "cpp",
         "while.C": "cpp",
         "olachico.C": "cpp",
-        "media.C": "cpp"
+        "media.C": "cpp",
+        "IMC.C": "cpp"
     }
 }
