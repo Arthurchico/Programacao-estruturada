@@ -2,6 +2,7 @@
     "files.associations": {
         "numerosprimos.C": "cpp",
         "while.C": "cpp",
-        "olachico.C": "cpp"
+        "olachico.C": "cpp",
+        "media.C": "cpp"
     }
 }
