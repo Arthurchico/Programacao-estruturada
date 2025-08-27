@@ -4,6 +4,7 @@
         "while.C": "cpp",
         "olachico.C": "cpp",
         "media.C": "cpp",
-        "IMC.C": "cpp"
+        "IMC.C": "cpp",
+        "mediaturma.C": "cpp"
     }
 }
