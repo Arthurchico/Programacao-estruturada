@@ -5,6 +5,8 @@
         "olachico.C": "cpp",
         "media.C": "cpp",
         "IMC.C": "cpp",
-        "mediaturma.C": "cpp"
+        "mediaturma.C": "cpp",
+        "imcsozinho.C": "cpp",
+        "vetoratv.C": "cpp"
     }
 }
