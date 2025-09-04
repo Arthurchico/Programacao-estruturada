@@ -8,7 +8,7 @@ void imprimirValoresAcimaValor(int vetor[], int tam, double valor);
 int buscaSequencial(int vetor[], int tam, int x);
 void realizarDiversasBuscas(int vetor[], int tam);
 int estarOrdenado(int vetor[], int tam);
-
+aaaaaaaaaaa
 int main() {
   int numeros[TAM];
   preencherVetorDigitacao(numeros, TAM);
