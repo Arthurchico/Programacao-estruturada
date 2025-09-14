@@ -81,14 +81,17 @@ int main() {
             case 1:
                 imprimirVetor(vetor, tamanho);
                 break;
-            case 2:
+
+            case 2: {
                 printf("Digite o valor a consultar: ");
                 scanf("%d", &valor);
                 int pos = buscaBinaria(vetor, tamanho, valor);
                 if (pos == -1) printf("Valor nao encontrado.\n");
                 else printf("Valor encontrado na posicao %d.\n", pos);
                 break;
-            case 3:
+            }
+
+            case 3: {
                 printf("Digite o valor a remover: ");
                 scanf("%d", &valor);
                 if (removerElemento(vetor, &tamanho, valor))
@@ -96,7 +99,9 @@ int main() {
                 else
                     printf("Valor nao encontrado.\n");
                 break;
-            case 4:
+            }
+
+            case 4: {
                 printf("Digite o valor a inserir: ");
                 scanf("%d", &valor);
                 if (inserirOrdenado(vetor, &tamanho, capacidade, valor))
@@ -104,9 +109,12 @@ int main() {
                 else
                     printf("Falha: vetor cheio.\n");
                 break;
+            }
+
             case 0:
                 printf("Saindo...\n");
                 break;
+
             default:
                 printf("Opcao invalida.\n");
         }
