@@ -8,6 +8,7 @@
         "mediaturma.C": "cpp",
         "imcsozinho.C": "cpp",
         "vetoratv.C": "cpp",
-        "vetoresatv.C": "cpp"
+        "vetoresatv.C": "cpp",
+        "matriz.C": "cpp"
     }
 }
