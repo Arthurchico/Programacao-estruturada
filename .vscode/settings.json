@@ -10,6 +10,8 @@
         "vetoratv.C": "cpp",
         "vetoresatv.C": "cpp",
         "matriz.C": "cpp",
-        "estudomsg.C": "cpp"
+        "estudomsg.C": "cpp",
+        "Variaveis.C": "cpp",
+        "string.C": "cpp"
     }
 }
