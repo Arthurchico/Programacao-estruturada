@@ -12,6 +12,7 @@
         "matriz.C": "cpp",
         "estudomsg.C": "cpp",
         "Variaveis.C": "cpp",
-        "string.C": "cpp"
+        "string.C": "cpp",
+        "maisculo.C": "cpp"
     }
 }
