@@ -13,6 +13,7 @@
         "estudomsg.C": "cpp",
         "Variaveis.C": "cpp",
         "string.C": "cpp",
-        "maisculo.C": "cpp"
+        "maisculo.C": "cpp",
+        "minusculo.C": "cpp"
     }
 }
