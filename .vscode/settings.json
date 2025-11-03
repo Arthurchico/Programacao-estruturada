@@ -16,6 +16,8 @@
         "maisculo.C": "cpp",
         "minusculo.C": "cpp",
         "discutir.C": "cpp",
-        "arquivo.C": "cpp"
+        "arquivo.C": "cpp",
+        "arquivoatv.C": "cpp",
+        "arquivoatividade.C": "cpp"
     }
 }
