@@ -18,6 +18,7 @@
         "discutir.C": "cpp",
         "arquivo.C": "cpp",
         "arquivoatv.C": "cpp",
-        "arquivoatividade.C": "cpp"
+        "arquivoatividade.C": "cpp",
+        "registroatv.C": "cpp"
     }
 }
