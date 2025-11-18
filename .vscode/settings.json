@@ -21,6 +21,7 @@
         "arquivoatividade.C": "cpp",
         "registroatv.C": "cpp",
         "Pesquisa.C": "cpp",
-        "Banco.C": "cpp"
+        "Banco.C": "cpp",
+        "correcao.C": "cpp"
     }
 }
