@@ -25,7 +25,7 @@ void lerDados(Estado cad[]) {
         printf("Nome do estado: ");
         fflush(stdin);
         fgets(cad[i].nome, 50, stdin);
-        cad[i].nome[strcspn(cad[i].nome, "\n")] = '\0'; // remover quebra de linha
+        cad[i].nome[strcspn(cad[i].nome, "\n")] = '\0';
         
         printf("Numero de veiculos (2007): ");
         scanf("%d", &cad[i].veiculos);
