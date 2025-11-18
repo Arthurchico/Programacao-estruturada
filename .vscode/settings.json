@@ -19,6 +19,7 @@
         "arquivo.C": "cpp",
         "arquivoatv.C": "cpp",
         "arquivoatividade.C": "cpp",
-        "registroatv.C": "cpp"
+        "registroatv.C": "cpp",
+        "Pesquisa.C": "cpp"
     }
 }
